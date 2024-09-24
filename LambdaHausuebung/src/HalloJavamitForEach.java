@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class HalloJavamitForEach {
+import java.util.List;
+
+public class HalloJavamitForEach {
+    List<String> list;
+
+    
 }
